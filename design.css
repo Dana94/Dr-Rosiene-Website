@@ -1,0 +1,67 @@
+/*Dana Ottaviani
+  9-26-2015
+  design.css
+  Dr. Rosiene's Website*/
+
+body {background-image: url(images/img03.jpg);
+      background-repeat: round;}
+
+#wrapper {width: 71%;
+          margin: auto;
+          min-width: 950px;
+          background-color: #FFFFFF;}
+
+#left {width: 210px;
+       float: left;
+       background-color: forestgreen;
+       padding-left: 10px;
+       padding-top: 20px;
+       padding-bottom: 10px;}
+
+.navstyle {width: 200px;
+           height: 40px;
+           padding: 10px;
+           margin: auto;
+           color: black;
+           font-weight: bold;
+           font-family: sans-serif;
+           border: ridge;
+           background-color: #999999;
+           box-shadow: 3px 3px;}
+
+a:hover {color: lightpink;}
+
+.title {background-image: url(images/pink_bheart.jpg);
+        background-repeat: no-repeat;
+        margin-left: 220px; 
+        margin-right: 200px;
+        width: 75%;      
+        height: 130px;
+        padding: 10px;}
+
+h1 {text-align: center;
+    background-color: #ffffff;
+    opacity: 0.6;
+    font-size: 3em;
+    padding: 10px;
+    max-width: 510px;}
+
+.content {margin-left: 210px;
+          width: 70%;
+          padding: 0 20px 10px;
+          font-family: Tahoma, Arial, sans-serif;}
+
+.description {text-indent: 3em;}  
+
+.contact {background-image: url(images/CPR-square-howie.jpg);
+          background-repeat: no-repeat;
+          background-position: top right;
+          background-size: 60%;}
+
+h2 {text-align: left;}
+
+footer {text-align: center;
+        font-size: .90em;
+        font-style: italic;}
+
+table, td, th {border: 1px solid black;}
