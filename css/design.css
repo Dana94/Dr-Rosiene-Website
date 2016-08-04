@@ -3,7 +3,7 @@
   design.css
   Dr. Rosiene's Website*/
 
-body {background-image: url(images/img03.jpg);
+body {background-image: url(../images/img03.jpg);
       background-repeat: round;}
 
 #wrapper {width: 71%;
@@ -31,7 +31,7 @@ body {background-image: url(images/img03.jpg);
 
 a:hover {color: lightpink;}
 
-.title {background-image: url(images/pink_bheart.jpg);
+.title {background-image: url(../images/pink_bheart.jpg);
         background-repeat: no-repeat;
         margin-left: 220px; 
         margin-right: 200px;
@@ -53,7 +53,7 @@ h1 {text-align: center;
 
 .description {text-indent: 3em;}  
 
-.contact {background-image: url(images/CPR-square-howie.jpg);
+.contact {background-image: url(../images/CPR-square-howie.jpg);
           background-repeat: no-repeat;
           background-position: top right;
           background-size: 60%;}
